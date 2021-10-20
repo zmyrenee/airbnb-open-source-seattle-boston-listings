@@ -1,0 +1,6 @@
+Questions:
+1. will holidays/spring break/summer/winter vacations causing the price to increase? In what %? Build a model to predict if the rent price is going to increase.
+
+2. Is cleaning fee related to the location, room type, bed type, square_foot? Any difference we could see in cleaning fees between Seattle and Boston
+
+3. What's the listings differences of most popular hours between Boston and Seattle. Example: Seattle listings is popular if it is clean and cute vs listings in Boston is clean, close to subway, etc...
